@@ -1,0 +1,84 @@
+.menu {
+	border : 1px solid #607080;
+	background-color : #ffffff;
+}
+.menusquare {
+	border : 1px solid #b06020;
+}
+.menuheading {
+	font-size: 11px; 
+	color: #b06020; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif;
+}
+.menulink {
+	font-size: 11px; 
+	color: #104e8b; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-decoration: none;
+}
+.menulink:hover {
+	font-size: 11px; 
+	color: #b06020; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-decoration: underline;
+}
+.link {
+	font-size: 12px; 
+	color: #104e8b; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-decoration: none;
+}
+.link:hover {
+	font-size: 12px; 
+	color: #b06020; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-decoration: underline;
+}
+.heading {
+	font-size: 12px;
+	color: #104e8b;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif;
+	border-bottom : 1px solid #607080;
+}
+.content {
+	border : 1px solid #607080;
+	background-color : #ffffff;
+}
+.contenttext {
+	font-size: 12px; 
+	color: #000000; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-align: justify;
+}
+.contentemphasize{
+	font-size: 12px;
+	color: #b06020;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif;
+}
+.contentheading {
+	font-size: 12px;
+	color: #b06020;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif;
+	border-bottom : 1px solid #607080;
+}
+.contentfootnote {
+	font-size: 10px;
+	color: #000000;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif;
+	text-align: center;
+}
+.footnote {
+	font-size: smaller; 
+	color: #000000; 
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular,sans-serif; 
+	text-align: justify;
+	border-top: 1px solid #607080;
+}
+.input {
+	border : 1px solid #607080;
+	background-color : #ffffff;
+}
+.button {
+	border : 1px solid #607080;
+	background-color : #CCCCCC;
+}
